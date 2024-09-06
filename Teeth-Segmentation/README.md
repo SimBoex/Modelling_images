@@ -8,7 +8,7 @@ I addressed the imbalanced dataset using the binary focal loss.
 Obviously, I had some problems with my current computing power, I used colab pro for improving this aspect.
 
 Procedure:
-- [here](https://blog.cardiogr.am/4-ways-to-debug-your-deep-neural-network-e5edb14a12d7),
+- [here](https://blog.cardiogr.am/4-ways-to-debug-your-deep-neural-network-e5edb14a12d7);
 - i tried with different augumentation still not better results!
 
 
