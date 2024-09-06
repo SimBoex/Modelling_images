@@ -12,4 +12,4 @@ Next steps:
 - i tried with different augumentation still not better results!
 
 
-I used some code and ideas from [here](https://www.youtube.com/@DigitalSreeni) (eg. UnetImplementation)
+I used some code and ideas from [here](https://www.youtube.com/@DigitalSreeni) (eg. Unet Implementation)
