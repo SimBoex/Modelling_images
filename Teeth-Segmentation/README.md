@@ -5,7 +5,7 @@ The dataset is taken from [here](https://www.kaggle.com/datasets/humansintheloop
 I want to review some concepts for semantic segmentation.
 I addressed the imbalanced dataset using the binary focal loss.
 
-Obviously, I had some problems with my current computing power, I used github pro for improving this aspect.
+Obviously, I had some problems with my current computing power, I used colab pro for improving this aspect.
 
 Next steps:
 - [here](https://blog.cardiogr.am/4-ways-to-debug-your-deep-neural-network-e5edb14a12d7),
