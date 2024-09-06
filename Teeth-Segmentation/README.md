@@ -2,7 +2,7 @@
 
 The dataset is taken from [here](https://www.kaggle.com/datasets/humansintheloop/teeth-segmentation-on-dental-x-ray-images)
 
-I want to review some concepts for semantic segmentation.
+I wanted to review some concepts for semantic segmentation.
 I addressed the imbalanced dataset using the binary focal loss.
 
 Obviously, I had some problems with my current computing power, I used colab pro for improving this aspect.
